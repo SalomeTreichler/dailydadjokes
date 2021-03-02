@@ -11,14 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d71c84f-34cc-471f-afd5-eaaf13d8bdf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MailAddresses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/SendEmail.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MailAddresses.js" beforeDir="false" afterPath="$PROJECT_DIR$/MailAddresses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/SendEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/SendEmail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,16 @@
       <updated>1614070815218</updated>
       <workItem from="1614070816954" duration="2494000" />
       <workItem from="1614073322954" duration="3584000" />
+      <workItem from="1614669993519" duration="2719000" />
     </task>
+    <task id="LOCAL-00001" summary="Mail feature with bugs">
+      <created>1614670788340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614670788340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,16 +89,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mail feature with bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mail feature with bugs" />
   </component>
   <component name="WindowStateProjectService">
     <state width="539" height="349" key="Git.Branch.Popup" timestamp="1614073480738">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="539" height="349" key="Git.Branch.Popup/0.0.1280.689@0.0.1280.689" timestamp="1614073480738" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1614073482805">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1614670790610">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1614073482805" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1614670790610" />
     <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614073443112">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

@@ -1,4 +1,4 @@
 export default [
-    "salome@treichler.eu",
-    "salome.treichler@gmail.com"
+    'salome.treichler@gmail.com"',
+    'nate.a.widmer@gmail.com'
 ];
