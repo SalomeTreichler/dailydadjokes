@@ -10,7 +10,7 @@ export default function sendEmails(joke) {
         }
     });
 
-    mailAddresses.forEach((to, index, array) => {
+    mailAddresses.forEach((to) => {
         const mailOptions = {
             from: 'dailydadjokess@gmail.com',
             subject: 'Your daily dad joke',
