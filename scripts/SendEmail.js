@@ -1,5 +1,6 @@
 import mailAddresses from '../MailAddresses.js';
-import nodemailer from 'nodemailer'
+import nodemailer from 'nodemailer';
+import {stopServer} from "./SetUpServer.js";
 
 export default function sendEmails(joke) {
     const transporter = nodemailer.createTransport({
@@ -22,6 +23,7 @@ export default function sendEmails(joke) {
                 console.log(error);
             } else {
                 console.log('Email sent: ' + info.response);
+                stopServer();
             }
         });
     })
