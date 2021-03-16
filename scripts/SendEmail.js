@@ -8,6 +8,8 @@ function validateEmail(email) {
 }
 
 export default function sendEmails(joke) {
+
+    // A new transporter is created here, where the credentials have to be specified
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
@@ -16,6 +18,8 @@ export default function sendEmails(joke) {
         }
     });
 
+    /* This loop iterates over all the mail addresses specified in the Mailaddresses.js file and swaps out the to attribute each time,
+       it also sends the mail with help from the transporter object and logs the error message, if a mail couldn't be sent. */
     mailAddresses.forEach((to) => {
         const mailOptions = {
             from: 'dailydadjokess@gmail.com',

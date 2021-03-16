@@ -6,13 +6,27 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d71c84f-34cc-471f-afd5-eaaf13d8bdf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MailAddresses.js" beforeDir="false" afterPath="$PROJECT_DIR$/MailAddresses.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/SendEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/SendEmail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="feature/send_email" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,13 +62,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="15.9.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.7.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.31" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5d71c84f-34cc-471f-afd5-eaaf13d8bdf1" name="Default Changelist" comment="" />
@@ -64,20 +87,12 @@
       <updated>1614070815218</updated>
       <workItem from="1614070816954" duration="2494000" />
       <workItem from="1614073322954" duration="3584000" />
-      <workItem from="1614669993519" duration="2719000" />
+      <workItem from="1615880990892" duration="1645000" />
     </task>
-    <task id="LOCAL-00001" summary="Mail feature with bugs">
-      <created>1614670788340</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1614670788340</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -91,22 +106,25 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mail feature with bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mail feature with bugs" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="539" height="349" key="Git.Branch.Popup" timestamp="1614073480738">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="828" height="547" key="Git.Branch.Popup" timestamp="1615882084523">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="828" height="547" key="Git.Branch.Popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615882084523" />
+    <state width="545" height="351" key="Git.Branch.Popup/0.0.1280.680@0.0.1280.680" timestamp="1614673237774" />
     <state width="539" height="349" key="Git.Branch.Popup/0.0.1280.689@0.0.1280.689" timestamp="1614073480738" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1614670790610">
+    <state x="121" y="51" key="MergeDialog" timestamp="1614673181482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1614673181482" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1614073482805">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1614670790610" />
-    <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614073443112">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1614073482805" />
+    <state x="458" y="256" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614673241292">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="458" y="256" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1614673241292" />
     <state x="458" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1614073443112" />
   </component>
 </project>
