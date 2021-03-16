@@ -1,5 +1,6 @@
 import http from "http";
 
+//in this file the server is set up, and if the server is running, a success message is printed out in the console
 export default function setUpServer() {
     const hostname = '127.0.0.1';
     const port = 3000;
