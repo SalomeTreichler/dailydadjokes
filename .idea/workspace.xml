@@ -27,16 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d71c84f-34cc-471f-afd5-eaaf13d8bdf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MailAddresses.js" beforeDir="false" afterPath="$PROJECT_DIR$/MailAddresses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/FetchRandomDadJoke.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/FetchRandomDadJoke.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/SendEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/SendEmail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/SetUpServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/SetUpServer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +87,7 @@
       <updated>1614070815218</updated>
       <workItem from="1614070816954" duration="2494000" />
       <workItem from="1614073322954" duration="3584000" />
-      <workItem from="1615880990892" duration="792000" />
+      <workItem from="1615880990892" duration="1645000" />
     </task>
     <servers />
   </component>
@@ -116,10 +107,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="824" height="543" key="Git.Branch.Popup" timestamp="1615881022778">
+    <state width="828" height="547" key="Git.Branch.Popup" timestamp="1615882084523">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="824" height="543" key="Git.Branch.Popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615881022778" />
+    <state width="828" height="547" key="Git.Branch.Popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615882084523" />
     <state width="545" height="351" key="Git.Branch.Popup/0.0.1280.680@0.0.1280.680" timestamp="1614673237774" />
     <state width="539" height="349" key="Git.Branch.Popup/0.0.1280.689@0.0.1280.689" timestamp="1614073480738" />
     <state x="121" y="51" key="MergeDialog" timestamp="1614673181482">
